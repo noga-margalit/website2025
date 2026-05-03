@@ -26,7 +26,7 @@ export default function Projects() {
             <div className="bg-gray-800 lg p-8 border border-gray-700">
               <h3 className="text-2xl font-bold text-white mb-4">Project 1</h3>
               <p className="text-gray-400 mb-4">
-                Description of your first project. Add details about what you worked on, the technologies used, and the outcome.
+                Description
               </p>
               <a href="#" className="text-orange-600 hover:text-orange-700 transition-colors">
                 View Project →
@@ -35,7 +35,7 @@ export default function Projects() {
             <div className="bg-gray-800 lg p-8 border border-gray-700">
               <h3 className="text-2xl font-bold text-white mb-4">Project 2</h3>
               <p className="text-gray-400 mb-4">
-                Description of your second project. Add details about what you worked on, the technologies used, and the outcome.
+                Description
               </p>
               <a href="#" className="text-orange-600 hover:text-orange-700 transition-colors">
                 View Project →
@@ -44,7 +44,7 @@ export default function Projects() {
             <div className="bg-gray-800 lg p-8 border border-gray-700">
               <h3 className="text-2xl font-bold text-white mb-4">Project 3</h3>
               <p className="text-gray-400 mb-4">
-                Description of your third project. Add details about what you worked on, the technologies used, and the outcome.
+                Description 
               </p>
               <a href="#" className="text-orange-600 hover:text-orange-700 transition-colors">
                 View Project →
@@ -53,7 +53,7 @@ export default function Projects() {
             <div className="bg-gray-800 lg p-8 border border-gray-700">
               <h3 className="text-2xl font-bold text-white mb-4">Project 4</h3>
               <p className="text-gray-400 mb-4">
-                Description of your fourth project. Add details about what you worked on, the technologies used, and the outcome.
+                Description
               </p>
               <a href="#" className="text-orange-600 hover:text-orange-700 transition-colors">
                 View Project →
