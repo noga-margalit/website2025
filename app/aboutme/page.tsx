@@ -42,10 +42,10 @@ export default function AboutMe() {
               I enjoy graphic design, sign making, film photography & more.
             </p>
             <p className="text-orange-600 text-lg leading-relaxed font-bold drop-shadow-[0_2px_2px_rgba(0,0,0,0.8)]">
-              I'm passionate about fonts & lettering working both in Hebrew & English.
+              I&apos;m passionate about fonts & lettering working both in Hebrew & English.
             </p>
             <p className="text-orange-600 text-lg leading-relaxed font-bold drop-shadow-[0_2px_2px_rgba(0,0,0,0.8)]">
-              I'm currently studying mechanical engineering at the Technion - Israel Institue of Technology in Haifa.
+              I&apos;m currently studying mechanical engineering at the Technion - Israel Institue of Technology in Haifa.
             </p>
             <p className="text-orange-600 text-lg leading-relaxed font-bold drop-shadow-[0_2px_2px_rgba(0,0,0,0.8)]">
               For inquiries -- margalitnoga@gmail.com
